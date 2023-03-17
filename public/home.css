@@ -101,6 +101,9 @@ gap: 1.5cm;
     gap: 3cm;
     background-color: rgb(102, 99, 99);
 }
+
+
+
 .copyright{
     display: flex;
     justify-content: center;
